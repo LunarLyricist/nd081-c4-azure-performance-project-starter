@@ -4,6 +4,7 @@ import random
 import redis
 import socket
 import sys
+print(sys.path)
 import logging
 from datetime import datetime
 
