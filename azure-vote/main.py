@@ -27,7 +27,7 @@ stats = stats_module.stats
 view_manager = stats.view_manager
 
 # Define your Application Insights instrumentation key
-instrumentation_key = 'InstrumentationKey=2ce3cb18-8e3a-4dbe-9e6b-e9c6765a6294'
+instrumentation_key = 'InstrumentationKey=acf6e45b-179c-4c9b-b6ae-959306647a9b'
 
 config_integration.trace_integrations(['logging'])
 config_integration.trace_integrations(['requests'])
